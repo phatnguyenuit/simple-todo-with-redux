@@ -1,0 +1,13 @@
+export const VisibilityFilters = {
+    SHOW_ALL: 'SHOW_ALL',
+    SHOW_COMPLETED: 'SHOW_COMPLETED',
+    SHOW_ACTIVE: 'SHOW_ACTIVE'
+}
+
+export const ADD_TODO = 'ADD_TODO'
+export const TOGGLE_TODO = 'TOGGLE_TODO'
+export const GET_TODOS_PENDING = 'GET_TODOS_PENDING'
+export const GET_TODOS_SUCCESS = 'GET_TODOS_SUCCESS'
+export const GET_TODOS_FAILURE = 'GET_TODOS_FAILURE'
+
+export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER'

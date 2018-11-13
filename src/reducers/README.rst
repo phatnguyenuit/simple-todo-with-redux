@@ -1,0 +1,1 @@
+TODO: Refactor name of reducer to similar to the name of a piece of state you want to manage
